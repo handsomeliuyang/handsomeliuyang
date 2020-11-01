@@ -389,6 +389,20 @@
 
   
   <url>
+    <loc>https://handsomeliuyang.github.io/tags/%E6%94%B6%E8%97%8F/</loc>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://handsomeliuyang.github.io/tags/Android/</loc>
+    <lastmod>2020-11-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://handsomeliuyang.github.io/tags/Android%E5%86%85%E6%A0%B8%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
@@ -411,13 +425,6 @@
   
   <url>
     <loc>https://handsomeliuyang.github.io/tags/Flutter/</loc>
-    <lastmod>2020-11-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://handsomeliuyang.github.io/tags/Android/</loc>
     <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -453,13 +460,6 @@
   
   <url>
     <loc>https://handsomeliuyang.github.io/tags/nodejs/</loc>
-    <lastmod>2020-11-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://handsomeliuyang.github.io/tags/%E6%94%B6%E8%97%8F/</loc>
     <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -545,14 +545,14 @@
 
   
   <url>
-    <loc>https://handsomeliuyang.github.io/categories/%E6%97%A5%E5%B8%B8%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://handsomeliuyang.github.io/categories/%E6%96%87%E7%AB%A0%E8%BD%AC%E5%8F%91/</loc>
     <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://handsomeliuyang.github.io/categories/%E6%96%87%E7%AB%A0%E8%BD%AC%E5%8F%91/</loc>
+    <loc>https://handsomeliuyang.github.io/categories/%E6%97%A5%E5%B8%B8%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2020-11-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
